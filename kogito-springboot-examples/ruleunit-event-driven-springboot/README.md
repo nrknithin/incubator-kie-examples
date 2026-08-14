@@ -14,9 +14,9 @@ The main goal behind the addon is to allow Kogito DRL services to be used as par
 ### Prerequisites
 
 You will need:
-  - Java 11+ installed
+  - Java 17+ installed
   - Environment variable JAVA_HOME set accordingly
-  - Maven 3.9.11+ installed
+  - Maven 3.9.16+ installed
   - [Docker Engine](https://docs.docker.com/engine/) and [Docker Compose](https://docs.docker.com/compose/) installed
 
 ### Enable The AddOn
